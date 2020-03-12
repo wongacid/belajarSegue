@@ -13,6 +13,7 @@
 		FEB7A6B1241A350F0042FC1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEB7A6AF241A350F0042FC1E /* Main.storyboard */; };
 		FEB7A6B3241A35110042FC1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEB7A6B2241A35110042FC1E /* Assets.xcassets */; };
 		FEB7A6B6241A35110042FC1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEB7A6B4241A35110042FC1E /* LaunchScreen.storyboard */; };
+		FEB7A6BE241A3B100042FC1E /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB7A6BD241A3B100042FC1E /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FEB7A6B2241A35110042FC1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEB7A6B5241A35110042FC1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FEB7A6B7241A35110042FC1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FEB7A6BD241A3B100042FC1E /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				FEB7A6B2241A35110042FC1E /* Assets.xcassets */,
 				FEB7A6B4241A35110042FC1E /* LaunchScreen.storyboard */,
 				FEB7A6B7241A35110042FC1E /* Info.plist */,
+				FEB7A6BD241A3B100042FC1E /* secondViewController.swift */,
 			);
 			path = nc2SegueExercise;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FEB7A6BE241A3B100042FC1E /* secondViewController.swift in Sources */,
 				FEB7A6AE241A350F0042FC1E /* ViewController.swift in Sources */,
 				FEB7A6AA241A350F0042FC1E /* AppDelegate.swift in Sources */,
 				FEB7A6AC241A350F0042FC1E /* SceneDelegate.swift in Sources */,
